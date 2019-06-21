@@ -1,18 +1,47 @@
-body {
-    background-color: rgb(248, 207, 193)
+.mama{
+    background-color: rgb(248, 207, 193);
+}
+
+.mama2{
+    background-color: rgb(248, 207, 193);
 }
 
 h1 {font-family:'Lobster', cursive;
 font-weight: bold; 
 font-size: 80px; }
-h2 {font-family: 'Pacifico', cursive; 
+
+.display-4{
+    font-family: 'Pacifico', cursive; 
 }
 
-.images-yeet {
-    length: 100px;
-    width: 100px;
+.display-6{
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
 }
 
-p {font-weight: bold}
+.display-7{
+    font-size: 50px;
+}
+
+.woohoo{
+    font-family: 'Noto Serif JP', serif;
+    font-size: 25px
+}
+.mama3{
+    font-family:'Bangers', cursive;
+}
+
+.mama4{
+    background-color: rgb(248, 207, 193);
+}
+
+.headtvshow{
+    font-family: 'Lobster', cursive;
+    font-size: 80px
+}  
+
+.mama10{
+    background-color:  rgb(248, 207, 193);
+}
 
 
